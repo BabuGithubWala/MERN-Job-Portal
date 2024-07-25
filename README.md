@@ -70,10 +70,6 @@ Contributions are welcome! Please follow these steps if you'd like to contribute
 5. Push to the branch (`git push origin feature/improvement`).
 6. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - This project was developed as part of learning the MERN stack.
