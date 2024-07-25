@@ -14,7 +14,7 @@ const CreateJob = () => {
         data.skills = selectedOption;
         //console.log(data);
 
-        fetch("http://localhost:3000/post-job", {
+        fetch("https://mern-job-portal-mmot.onrender.com/post-job", {
             method: "POST",
             headers: { 'content-Type': 'application/json' },
             body: JSON.stringify(data)
